@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("67. Add Binary_LeetCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b62ecfb940da7aeba2ae7237120d5cf387a9d8fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("67. Add Binary_LeetCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("67. Add Binary_LeetCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
